@@ -1,5 +1,7 @@
 # COVID-19 Analysis
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-342/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-342/actions)
+
 - [ ] pease review margdown which does not have hanging indent
 - [ ] urls are in <http://www.google.com>
 - [ ] add refs as footnotes
