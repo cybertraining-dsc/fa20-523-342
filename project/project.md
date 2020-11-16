@@ -42,6 +42,6 @@ We started with using Python code for the programing and working on the csv file
 	
 ## 4. References
 
-<https://covid19.who.int/table>
-<http://datatopics.worldbank.org/universal-health-coverage/coronavirus/>
+<https://covid19.who.int/table> <B>
+<http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> <B>
 <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge>
