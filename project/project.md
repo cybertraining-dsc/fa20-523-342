@@ -14,7 +14,7 @@ Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), 
 
 ## Abstract
 
-By the end of 2019, healthcare across the world started to see a new type of Flu and they called it Coronavirus or Covid-19. This new type of Flu developed across the world and it appeared there is no one treatment could be used to treat it yet, scientists found different treatments that apply to different age ranges. In this project, We will try to work on some analysis on areas that the virus did spread and what factors played big roles in this spread.
+By the end of 2019, healthcare across the world started to see a new type of Flu and they called it Coronavirus or Covid-19. This new type of Flu developed across the world and it appeared there is no one treatment could be used to treat it yet, scientists found different treatments that apply to different age ranges. In this project, We will try to work on comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread.
 Contents
 
 {{< table_of_contents >}}
@@ -36,8 +36,12 @@ We will collect the data and extract it from its sources and datasets, Also we w
 ## 3. Methodology
 
 We will be utilizing the Indiana University system to process the collected data as it will need a strong system to process it. Also, we will utilize Python, Collab, and Jupyter notebook as programming software.
+After observing the data from multiple websits, we decided to use the dataset from the World Health Organization and we did looked through the data then we are going to do the analysis between USA and China on the total new cases and total new deaths monthly starting from 1/1/2020.
+We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for the visualization piece. 
 
 	
 ## 4. References
 
-TBD
+<https://covid19.who.int/table>
+<http://datatopics.worldbank.org/universal-health-coverage/coronavirus/>
+<https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge>
