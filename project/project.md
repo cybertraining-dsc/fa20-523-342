@@ -29,19 +29,19 @@ This new disease attacked aggressively the respiratory system for the patient an
 
 ## 2. Data-Sets
 
-We will use http://datatopics.worldbank.org/universal-health-coverage/coronavirus/  also https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge as data sets, we will try to observe more data sets so we can get a better understanding of what relates between the coronavirus spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data.
+We will use the data set provided by [1-3] and we will try to observe more data sets so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data.
 
-We will collect the data and extract it from its sources and datasets, Also we will look for the most recent data as well and we will compare and do analysis on the founding and get the best conclusion accordingly.
+We will collect the data and extract it from its sources and datasets, Also we will look for the most recent data as well, and we will compare and do analysis on the findings and draw the most apropriate conclusion accordingly.
 
 ## 3. Methodology
 
-We will be utilizing the Indiana University system to process the collected data as it will need a strong system to process it. Also, we will utilize Python, Collab, and Jupyter notebook as programming software.
-After observing the data from multiple websits, we decided to use the dataset from the World Health Organization and we did looked through the data then we are going to do the analysis between USA and China on the total new cases and total new deaths monthly starting from 1/1/2020.
-We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for the visualization piece. 
+We will be utilizing the Indiana University system to process the collected data as it will need a strong system to process it. Also, we will utilize Python, and Jupyter notebook as programming software and platform.
+After observing the data from multiple websites, we decided to use the dataset from the World Health Organization. After looking through the data we decided to perform the analysis between the USA and China on the total number of new COVID 19 cases and total number of new COVID 19 related deaths on a monthly basis starting from January 2020.
+We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for visualization purposes. 
 
 	
 ## 4. References
 
-<https://covid19.who.int/table> <Br>
-<http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> <Br>
-<https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge>
+1 - <https://covid19.who.int/table> <Br>
+2 - <http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> <Br>
+3 - <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge>
