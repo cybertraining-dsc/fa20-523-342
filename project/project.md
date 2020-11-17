@@ -8,7 +8,7 @@
 - [ ] Please use references instead of URLs. 
 - [ ] Reach office hours if help is needed
 
-Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/master/project/project.md)
+Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
 {{% pageinfo %}}
 
