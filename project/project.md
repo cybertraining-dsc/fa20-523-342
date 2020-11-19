@@ -5,11 +5,12 @@
 Status: in progress
 
 
-- [ ] pease review margdown which does not have hanging indent
+- [ ] pease review margkown which does not have hanging indent
 - [ ] urls are in <http://www.google.com>
 - [ ] add refs as footnotes
 - [ ] Please use references instead of URLs. 
 - [ ] Reach office hours if help is needed
+- [ ]  please review our template to see how to do references and cite them in the text
 
 Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
