@@ -44,8 +44,8 @@ We will be utilizing the Indiana University system to process the collected data
 After observing the data from multiple websites, we decided to use the dataset from the World Health Organization. After looking through the data we decided to perform the analysis between the USA and China on the total number of new COVID 19 cases and total number of new COVID 19 related deaths on a monthly basis starting from January 2020.
 We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for visualization purposes. 
 
-	
-## 4. References
+## 4. Conclusion	
+## 5. References
 
 [^1]: Covid19.who.int. 2020. [online] Available at: <https://covid19.who.int/table> [Accessed 19 December 2020].
 
