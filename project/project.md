@@ -45,6 +45,7 @@ After observing the data from multiple websites, we decided to use the dataset f
 We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for visualization purposes. 
 
 ## 4. Conclusion	
+
 ## 5. References
 
 [^1]: Covid19.who.int. 2020. [online] Available at: <https://covid19.who.int/table> [Accessed 19 December 2020].
