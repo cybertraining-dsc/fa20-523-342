@@ -33,7 +33,7 @@ This new disease attacked aggressively the respiratory system for the patient an
 
 ## 2. Data-Sets
 
-We will use the data set provided by [1-3] and we will try to observe more data sets so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data.
+We will use the data set provided by [^1] and we will try to observe more data sets so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data.
 
 We will collect the data and extract it from its sources and datasets, Also we will look for the most recent data as well, and we will compare and do analysis on the findings and draw the most apropriate conclusion accordingly.
 
