@@ -46,6 +46,9 @@ We started with using Python code for the programing and working on the csv file
 	
 ## 4. References
 
-1 - <https://covid19.who.int/table> <Br>
-2 - <http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> <Br>
-3 - <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge>
+[^1]: Covid19.who.int. 2020. [online] Available at: <https://covid19.who.int/table> [Accessed 19 December 2020].
+[^2]: Datatopics.worldbank.org. 2020. Understanding The Coronavirus (COVID-19) Pandemic Through Data | Universal Health Coverage Data | World Bank. [online] Available at: <http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> [Accessed 19 December 2020].
+
+[^3]: Datatopics.worldbank.org. 2020. Understanding The Coronavirus (COVID-19) Pandemic Through Data | Universal Health Coverage Data | World Bank. [online] Available at: <http://datatopics.worldbank.org/universal-health-coverage/coronavirus/> [Accessed 19 December 2020].
+[^4]: Kaggle.com. 2020. COVID-19 Open Research Dataset Challenge (CORD-19). [online] Available at: <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge> [Accessed 19 December 2020].
+[^5]: Visualcrossing.com. 2020. Weather Data Services | Visual Crossing. [online] Available at: <https://www.visualcrossing.com/weather/weather-data-services#/editDataDefinition> [Accessed 19 December 2020].
