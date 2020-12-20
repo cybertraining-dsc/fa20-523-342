@@ -33,10 +33,10 @@ This new disease attacked aggressively the respiratory system for the patient an
 
 ## 2. Data-Sets
 
-We will use the data set provided by the World Health Organization[^1] and we will try to observe more data sets[^2] so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
+We will use the data set provided by the World Health Organization [^1] and we will try to observe more data sets [^2] so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
 
 We will collect the data and extract it from its sources and datasets, Also we will look for the most recent data as well, and we will compare and do analysis on the findings and draw the most apropriate conclusion accordingly.
-For the weather datasets, we looked at several datasets and we decided to use the data provided by visualcrossing website[^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
+For the weather datasets, we looked at several datasets and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
 
 ## 3. Methodology
 
