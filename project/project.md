@@ -29,14 +29,32 @@ Contents
 
 While the world is ready to start 2020 we heard about a new type of the Flu that it appears to be started in China and from there it went to the entire world. It appeared to affect all ages but its severity did depend on other factors that related to age, health conditions if the patient is a smoker or not?
 
-This new disease attacked aggressively the respiratory system for the patient and then all the human body causing death. The recovery from this disease appeared to vary from area to area across the globe, Also the death percentage as well was and still vary from area to area. 
+This new disease attacked aggressively the respiratory system for the patient and then all the human body causing death. The recovery from this disease appeared to vary from area to area across the globe, Also the death percentage as well was and still vary from area to area. and then we decided to do some analysis to see if the weather temperature plays a role or not with it.
 
 ## 2. Data-Sets
 
-We will use the data set provided by the World Health Organization [^1] and we will try to observe more data sets [^2] so we can get a better understanding of what is the relationship between the COVID 19 spread and the most affected areas. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
+After observing many datasets [^1], [^2], [^3] so we can get a better understanding if there is a common one or more factors in areas that have most number of Covid 19 new cases  between, We have decided to proceed using the data set provided by the World Health Organization [^1] because this dateset is being updated on daily basis and have the most accurate data. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
 
+For the weather datasets, we looked at several datasets [^4], [^5], [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
+We started to collect the data from 1/1/2020.
+
+### 2.1 preparing the Data-Sets
+
+We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
+
+![Figure 2.1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/agevssex.jpg)
+
+**Figure 2.1**: Age vs Gender distributions of the dav_set and sav_set.
+
+
+
+
+
+
+While this was very helpful method to get the latest data, we couldn't use it to gather theweather dataset, we gathered the weather dataset by downloading from the Visualcrossing website [^4] 
+------> processing data ----- to be moved
 We will collect the data and extract it from its sources and datasets, Also we will look for the most recent data as well, and we will compare and do analysis on the findings and draw the most apropriate conclusion accordingly.
-For the weather datasets, we looked at several datasets and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
+
 
 ## 3. Methodology
 
@@ -55,3 +73,5 @@ We started with using Python code for the programing and working on the csv file
 [^3]: Kaggle.com. 2020. COVID-19 Open Research Dataset Challenge (CORD-19). [online] Available at: <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge> [Accessed 19 December 2020].
 
 [^4]: Visualcrossing.com. 2020. Weather Data Services | Visual Crossing. [online] Available at: <https://www.visualcrossing.com/weather/weather-data-services#/editDataDefinition> [Accessed 19 December 2020].
+[^5]: The Weather Channel. 2020. National And Local Weather Radar, Daily Forecast, Hurricane And Information From The Weather Channel And Weather.Com. [online] Available at: <https://weather.com/> [Accessed 22 December 2020].
+[^6]: Climate.gov. 2020. Dataset Gallery | NOAA Climate.Gov. [online] Available at: <https://www.climate.gov/maps-data/datasets/formats/csv/variables/precipitation> [Accessed 22 December 2020].
