@@ -38,13 +38,17 @@ After observing many datasets [^1], [^2], [^3] so we can get a better understand
 For the weather datasets, we looked at several datasets [^4], [^5], [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
 We started to collect the data from 1/1/2020.
 
-### 2.1 preparing the Data-Sets
+### 2.1 preparing COVID 19 Data-Set
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.JPG)
 
+**Figure 1**: Downloading the Covid 19 dataset.
 
-**Figure 2.1**: Age vs Gender distributions of the dav_set and sav_set.
+We then filtered only on United States of America so we can get all data belong to United Sates 
+
+![Figure 2](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA.JPG)
+
 
 
 
