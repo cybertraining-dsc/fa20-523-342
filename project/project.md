@@ -43,22 +43,22 @@ We started to collect the data from 1/1/2020.
 ### 2.1 preparing COVID 19 Data-Set
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.JPG)
+![Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.jpg)
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
 We then filtered only on United States of America so we can get all data belong to United States of America
 
-![Figure 2](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA.JPG)
+![Figure 2](https://raw.githubusercontent.com.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA.jpg)
 **Figure 2**: Capturing only USA data
 
 Then we made a graph between the new cases and new deaths for USA
 
-![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.JPG)
+![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.jpg)
 **Figure 3**: New cases and new deaths
 
 
-
+raw.githubusercontent.com
 
 While this was very helpful method to get the latest data, we couldn't use it to gather theweather dataset, we gathered the weather dataset by downloading from the Visualcrossing website [^4] 
 ------> processing data ----- to be moved
@@ -71,7 +71,12 @@ We will be utilizing the Indiana University system to process the collected data
 After observing the data from multiple websites, we decided to use the dataset from the World Health Organization. After looking through the data we decided to perform the analysis between the USA and China on the total number of new COVID 19 cases and total number of new COVID 19 related deaths on a monthly basis starting from January 2020.
 We started with using Python code for the programing and working on the csv file downloaded from the WHO website, and utilizing matplotlib for visualization purposes. 
 
-## 4. Conclusion	
+## 4. Conclusion and Future Work	
+
+After processing  all the data gathered in  search of a correlation between the weather, more specifically  temperature, and the number of new cases in both China and the United States of America, the results clearly indicate  that the number of new cases and temperature are uncorrelated.  Nonetheless, the results suggest that there is a strong positive correlation (correlation coefficient > 0.8) between the number of new cases and the cumulative number of current cases in both countries. Hence, it appears that, in the absence of other mitigating factors, the number of the new cases will increase as long as the cumulative number of current cases keeps increasing.
+
+Given the more recent developments pertaining to the discovery and distribution of vaccines it is suggested that the model be modified to include the number of vaccinations administered.  The objective in this case will be to discover any correlation between the number of new cases and both the number of the current cases as well as the number of vaccinations being given across at least the United Sates. Depending on the outcome it maybe possible to determine how effective the vaccines are and maybe predict, if possible, if ever the number of cases will diminish to zero. 
+
 
 ## 5. References
 
