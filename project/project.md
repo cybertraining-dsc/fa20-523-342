@@ -41,7 +41,7 @@ We started to collect the data from 1/1/2020.
 ### 2.1 preparing the Data-Sets
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
-
+[Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.JPG)
 ![Figure 2.1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/agevssex.jpg)
 
 **Figure 2.1**: Age vs Gender distributions of the dav_set and sav_set.
@@ -73,5 +73,7 @@ We started with using Python code for the programing and working on the csv file
 [^3]: Kaggle.com. 2020. COVID-19 Open Research Dataset Challenge (CORD-19). [online] Available at: <https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge> [Accessed 19 December 2020].
 
 [^4]: Visualcrossing.com. 2020. Weather Data Services | Visual Crossing. [online] Available at: <https://www.visualcrossing.com/weather/weather-data-services#/editDataDefinition> [Accessed 19 December 2020].
+
 [^5]: The Weather Channel. 2020. National And Local Weather Radar, Daily Forecast, Hurricane And Information From The Weather Channel And Weather.Com. [online] Available at: <https://weather.com/> [Accessed 22 December 2020].
+
 [^6]: Climate.gov. 2020. Dataset Gallery | NOAA Climate.Gov. [online] Available at: <https://www.climate.gov/maps-data/datasets/formats/csv/variables/precipitation> [Accessed 22 December 2020].
