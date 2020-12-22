@@ -44,18 +44,20 @@ We started to collect the data from 1/1/2020.
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.jpg)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.jpg)
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
 We then filtered only on United States of America so we can get all data belong to United States of America
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA.jpg)
+
 **Figure 2**: Capturing only USA data
 
 Then we made a graph between the new cases and new deaths for USA
 
-![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.jpg)
+![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.jpg)
+
 **Figure 3**: New cases and new deaths
 
 
