@@ -24,6 +24,7 @@ Contents
 {{< table_of_contents >}}
 
 {{% /pageinfo %}}
+**Keywords:** Corona Virus, Covid 19, Health
 
 ## 1. Introduction
 
@@ -45,12 +46,15 @@ We started to work on Covid 19 dataset and we found that it is better to use web
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
-We then filtered only on United States of America so we can get all data belong to United Sates 
+We then filtered only on United States of America so we can get all data belong to United States of America
 
 ![Figure 2](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA.JPG)
+**Figure 2**: Capturing only USA data
 
+Then we made a graph between the new cases and new deaths for USA
 
-
+![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.JPG)
+**Figure 3**: New cases and new deaths
 
 
 
