@@ -5,12 +5,8 @@
 Status: final approved, Type: Project
 
 
-- [x] pease review margkown which does not have hanging indent
-- [x] urls are in <http://www.google.com>
-- [x] add refs as footnotes
-- [x] Please use references instead of URLs. 
-- [x] Reach office hours if help is needed
-- [x]  please review our template to see how to do references and cite them in the text
+- [ ] images must point to raw image see, template
+- [ ]  please review our template to see how to do references and cite them in the text
 
 Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
