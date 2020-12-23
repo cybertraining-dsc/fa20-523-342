@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-342/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-342/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-342/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-342/actions)
-Status: in progress approved, Type: Project
+Status: final approved, Type: Project
 
 
 - [x] pease review margkown which does not have hanging indent
@@ -58,7 +58,7 @@ Then we made a graph between the new cases and new deaths for USA
 
 ![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USA_NEW_Cases_Deaths1.jpg)
 
-**Figure 3**: USA New cases and new deaths
+**Figure 3**: USA New Covid 19 cases and new deaths
 
 ![Figure 4](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/China.jpg)
 
@@ -68,7 +68,7 @@ Then we made a graph between the new cases and new deaths for China
 
 ![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/China_NEW_Cases_Deaths.jpg)
 
-**Figure 5**: China New cases and new deaths
+**Figure 5**: China New Covid 19 cases and new deaths
 
 ### 2.2 preparing Weather Data-Set
 
@@ -81,21 +81,43 @@ We utilized the Indiana University system to process the collected data as it wi
 
 ## 4. Processing the Data
 
-We started to process the final dataset we prepared 
- 
+We started to process the final dataset we prepared and we examined the data for any correlation between the weather temperature and new cases for United States of America and we found that there is no correlation there.
 
-## 4. Conclusion and Future Work	
+![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USAnewdataset.jpg) 
 
-After processing  all the data gathered in  search of a correlation between the weather, more specifically  temperature, and the number of new cases in both China and the United States of America, the results clearly indicate  that the number of new cases and temperature are uncorrelated.  Nonetheless, the results suggest that there is a strong positive correlation (correlation coefficient > 0.8) between the number of new cases and the cumulative number of current cases in both countries. Hence, it appears that, in the absence of other mitigating factors, the number of the new cases will increase as long as the cumulative number of current cases keeps increasing.
+**Figure 6**: USA Dataset after merging the data
+
+![Figure 7](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/USAcorr.jpg)
+
+**Figure 7**: Correlation between the Weather temperature and the new covid 19 cases for United States of America
+
+Then we also processed the data for China and got the same results as United States of America, We then looked at the analysis and we found there is a correlation between the New covid cases and the current (cumulative) cases, on the contrary, for China there is no correlation between the new Covid cases and the current cases.  
+
+![Figure 8](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/ChinaCorr.jpg)
+
+**Figure 8**: Correlation between the  new covid 19 cases and the current cases for China.
+
+We started to observe more data from another country so we choosed United Kingdom, and then we found there is a correlation between the new covid 19 cases and the current (cumulative) cases.
+
+![Figure 9](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/UK_correlation.jpg)
+
+**Figure 9**: Correlation between the  new covid 19 cases and the current cases for United Kingdom.
+
+
+## 5. Conclusion and Future Work	
+
+After processing  all the data gathered in  search of a correlation between the weather, more specifically temperature, and the number of new cases in both China and the United States of America, the results clearly indicate  that the number of new cases and temperature are uncorrelated.  Nonetheless, the results suggest that there is a strong positive correlation (correlation coefficient > 0.8) between the number of new cases and the cumulative number of current cases in United states of America and United Kingdom. Hence, it appears that, in the absence of other mitigating factors, the number of the new cases will increase as long as the cumulative number of current cases keeps increasing.
+
+While the new covid 19 cases and the current cases at China are uncorrelated, this might be due to false reporting or due to different factors are being used at China to reduce the number of the new cases.
 
 Given the more recent developments pertaining to the discovery and distribution of vaccines it is suggested that the model be modified to include the number of vaccinations administered.  The objective in this case will be to discover any correlation between the number of new cases and both the number of the current cases as well as the number of vaccinations being given across at least the United Sates. Depending on the outcome it maybe possible to determine how effective the vaccines are and maybe predict, if possible, if ever the number of cases will diminish to zero.
 
 
-## 5. Acknowledgements
+## 6. Acknowledgements
 
 The author would like to thank Dr. Geoffrey Fox, Dr. Gregor von Laszewski, and the associate instructors in the *FA20-BL-ENGR-E534-11530: Big Data Applications* course (offered in the Fall 2020 semester at Indiana University, Bloomington) for their assistance, suggestions, and aid provided during working on this project.
 
-## 6. References
+## 7. References
 
 [^1]: Covid19.who.int. 2020. [online] Available at: <https://covid19.who.int/table> [Accessed 19 December 2020].
 
