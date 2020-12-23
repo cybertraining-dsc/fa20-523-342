@@ -40,7 +40,7 @@ We started to collect the data from 1/3/2020.
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/blob/main/project/images/Webscrap.jpg)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/Webscrap.jpg)
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
