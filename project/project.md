@@ -62,7 +62,7 @@ Then we made a graph between the new cases and new deaths for USA
 
 Then we made a graph between the new cases and new deaths for China
 
-![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china_new_cases_deaths.jpg)
+![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china_new_cases_deaths1.jpg)
 
 **Figure 5**: China New Covid 19 cases and new deaths
 
@@ -79,7 +79,7 @@ We utilized the Indiana University system to process the collected data as it wi
 
 We started to process the final dataset we prepared and we examined the data for any correlation between the weather temperature and new cases for United States of America and we found that there is no correlation there.
 
-![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usanewdataset.jpg) 
+![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usa_new_dataset.jpg) 
 
 **Figure 6**: USA Dataset after merging the data
 
