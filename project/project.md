@@ -62,7 +62,7 @@ Then we made a graph between the new cases and new deaths for USA
 
 Then we made a graph between the new cases and new deaths for China
 
-![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china_new_cases_deaths1.jpg)
+![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china_new_cases_deaths.jpg)
 
 **Figure 5**: China New Covid 19 cases and new deaths
 
