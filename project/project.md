@@ -6,7 +6,7 @@ Status: final approved, Type: Project
 
 
 - [x] images must point to raw image see, template
-- [ ]  please review our template to see how to do references and cite them in the text
+- [x]  please review our template to see how to do references and cite them in the text
 
 Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
@@ -31,38 +31,38 @@ This new disease attacked aggressively the respiratory system for the patient an
 
 ## 2. Data-Sets
 
-After observing many datasets [^1], [^2], [^3] so we can get a better understanding if there is a common one or more factors in areas that have most number of Covid 19 new cases  between, We have decided to proceed using the data set provided by the World Health Organization [^1] because this dateset is being updated on daily basis and have the most accurate data. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
+After observing many datasets [^1] [^2] [^3] so we can get a better understanding if there is a common one or more factors in areas that have most number of Covid 19 new cases  between, We have decided to proceed using the data set provided by the World Health Organization [^1] because this dateset is being updated on daily basis and have the most accurate data. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
 
-For the weather datasets, we looked at several datasets [^4], [^5], [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
+For the weather datasets, we looked at several datasets [^4] [^5] [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
 We started to collect the data from 1/3/2020.
 
 ### 2.1 preparing COVID 19 Data-Set
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/webscrap.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/webscrap.jpg)
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
 We then filtered only on United States of America so we can get all data belong to United States of America
 
-![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usa.jpg)
+![Figure 2](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa.jpg)
 
 **Figure 2**: Capturing only USA data
 
 Then we made a graph between the new cases and new deaths for USA
 
-![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usa_new_cases_deaths1.jpg)
+![Figure 3](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_cases_deaths1.jpg)
 
 **Figure 3**: USA New Covid 19 cases and new deaths
 
-![Figure 4](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china.jpg)
+![Figure 4](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china.jpg)
 
 **Figure 4**: Capturing China data
 
 Then we made a graph between the new cases and new deaths for China
 
-![Figure 5](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/china_new_cases_deaths.jpg)
+![Figure 5](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china_new_cases_deaths.jpg)
 
 **Figure 5**: China New Covid 19 cases and new deaths
 
@@ -79,23 +79,23 @@ We utilized the Indiana University system to process the collected data as it wi
 
 We started to process the final dataset we prepared and we examined the data for any correlation between the weather temperature and new cases for United States of America and we found that there is no correlation there.
 
-![Figure 6](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usa_new_dataset.jpg) 
+![Figure 6](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_dataset.jpg) 
 
 **Figure 6**: USA Dataset after merging the data
 
-![Figure 7](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/usacorr.jpg)
+![Figure 7](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usacorr.jpg)
 
 **Figure 7**: Correlation between the Weather temperature and the new covid 19 cases for United States of America
 
 Then we also processed the data for China and got the same results as United States of America, We then looked at the analysis and we found there is a correlation between the New covid cases and the current (cumulative) cases, on the contrary, for China there is no correlation between the new Covid cases and the current cases.
 
-![Figure 8](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/chinacorr.jpg)
+![Figure 8](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
 
 **Figure 8**: Correlation between the  new covid 19 cases and the current cases for China.
 
 We started to observe more data from another country so we choosed United Kingdom, and then we found there is a correlation between the new covid 19 cases and the current (cumulative) cases.
 
-![Figure 9](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-342/main/project/images/uk_correlation.jpg)
+![Figure 9](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
 
 **Figure 9**: Correlation between the  new covid 19 cases and the current cases for United Kingdom.
 
