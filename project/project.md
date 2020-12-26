@@ -46,23 +46,23 @@ We started to work on Covid 19 dataset and we found that it is better to use web
 
 We then filtered only on United States of America so we can get all data belong to United States of America
 
-![Figure 2](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa.jpg)
+![Figure 2](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa.jpg)
 
 **Figure 2**: Capturing only USA data
 
 Then we made a graph between the new cases and new deaths for USA
 
-![Figure 3](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_cases_deaths1.jpg)
+![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_cases_deaths1.jpg)
 
 **Figure 3**: USA New Covid 19 cases and new deaths
 
-![Figure 4](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china.jpg)
+![Figure 4](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china.jpg)
 
 **Figure 4**: Capturing China data
 
 Then we made a graph between the new cases and new deaths for China
 
-![Figure 5](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china_new_cases_deaths.jpg)
+![Figure 5](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china_new_cases_deaths.jpg)
 
 **Figure 5**: China New Covid 19 cases and new deaths
 
@@ -79,23 +79,23 @@ We utilized the Indiana University system to process the collected data as it wi
 
 We started to process the final dataset we prepared and we examined the data for any correlation between the weather temperature and new cases for United States of America and we found that there is no correlation there.
 
-![Figure 6](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_dataset.jpg) 
+![Figure 6](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_dataset.jpg) 
 
 **Figure 6**: USA Dataset after merging the data
 
-![Figure 7](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usacorr.jpg)
+![Figure 7](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usacorr.jpg)
 
 **Figure 7**: Correlation between the Weather temperature and the new covid 19 cases for United States of America
 
 Then we also processed the data for China and got the same results as United States of America, We then looked at the analysis and we found there is a correlation between the New covid cases and the current (cumulative) cases, on the contrary, for China there is no correlation between the new Covid cases and the current cases.
 
-![Figure 8](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
+![Figure 8](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
 
 **Figure 8**: Correlation between the  new covid 19 cases and the current cases for China.
 
 We started to observe more data from another country so we choosed United Kingdom, and then we found there is a correlation between the new covid 19 cases and the current (cumulative) cases.
 
-![Figure 9](https://github.com.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
+![Figure 9](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
 
 **Figure 9**: Correlation between the  new covid 19 cases and the current cases for United Kingdom.
 
