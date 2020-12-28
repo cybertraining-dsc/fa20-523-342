@@ -43,23 +43,23 @@ We started to work on Covid 19 dataset and we found that it is better to use web
 
 **Figure 1**: Downloading the Covid 19 dataset.
 
-We then filtered only on United States of America so we can get all data belong to United States of America
+We then filtered only on United States of America so we can get all data belong to United States of America.
 
 ![Figure 2](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa.jpg)
 
 **Figure 2**: Capturing only USA data
 
-Then we made a graph between the new cases and new deaths for USA
+Then we made 2 seperate graphs to depict the number of new cases and the number of new deaths in the USA throughout 2020 as shown below.
 
 ![Figure 3](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_cases_deaths1.jpg)
 
-**Figure 3**: USA New Covid 19 cases and new deaths
+**Figure 3**: USA New Covid 19 cases and new deaths.
 
 ![Figure 4](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china.jpg)
 
-**Figure 4**: Capturing China data
+**Figure 4**: Capturing China data.
 
-Then we made a graph between the new cases and new deaths for China
+We also made 2 seperate graphs to depict the number of new cases and the number of new deaths in China throughout 2020 as shown below.
 
 ![Figure 5](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/china_new_cases_deaths.jpg)
 
