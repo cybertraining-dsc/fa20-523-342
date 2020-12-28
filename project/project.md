@@ -31,10 +31,9 @@ This new disease attacked aggressively the respiratory system for the patient an
 
 ## 2. Data-Sets
 
-After observing many datasets [^1] [^2] [^3] so we can get a better understanding if there is a common one or more factors in areas that have most number of Covid 19 new cases  between, We have decided to proceed using the data set provided by the World Health Organization [^1] because this dateset is being updated on daily basis and have the most accurate data. Currently looks like we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webspraping to get the data we need from the World Health Organization website which is updated daily.
+After observing many datasets [^1] [^2] [^3] to get a better understanding if there are common factors in the areas that have the larger number of new Covid 19 cases, we decided to proceed with the dataset provided by the World Health Organization [^1] because this dateset is being updated on a daily basis and has the most accurate data. Currently it appears that we are getting a second wave of coronavirus and so we will try to get the most recent data. We were able to use Webscraping to get the data we need from the World Health Organization website which is updated daily.
 
-For the weather datasets, we looked at several datasets [^4] [^5] [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us on getting the data we need which daily average temperatures at United States of America and China so we can use it for this project.
-We started to collect the data from 1/3/2020.
+For the weather datasets, we looked at several datasets [^4] [^5] [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us in getting the data we need which is daily average temperatures in the United States of America and China. We started to collect the data from 1/3/2020.
 
 ### 2.1 preparing COVID 19 Data-Set
 
