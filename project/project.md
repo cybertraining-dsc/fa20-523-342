@@ -76,27 +76,27 @@ We utilized the Indiana University system to process the collected data as it wi
 
 ## 4. Processing the Data
 
-We started to process the final dataset we prepared and we examined the data for any correlation between the weather temperature and new cases for United States of America and we found that there is no correlation there.
+We started to process the final dataset we prepared and we examined the data for any correlation between the temperature and new cases for the United States of America and we found that there is no correlation there.
 
 ![Figure 6](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usa_new_dataset.jpg) 
 
-**Figure 6**: USA Dataset after merging the data
+**Figure 6**: USA Dataset after merging the data.
 
 ![Figure 7](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usacorr.jpg)
 
-**Figure 7**: Correlation between the Weather temperature and the new covid 19 cases for United States of America
+**Figure 7**: Correlation between the temperature and the new covid 19 cases for the United States of America.
 
-Then we also processed the data for China and got the same results as United States of America, We then looked at the analysis and we found there is a correlation between the New covid cases and the current (cumulative) cases, on the contrary, for China there is no correlation between the new Covid cases and the current cases.
+Then we also processed the data for China and got the same results as the United States of America. We then looked at the analysis and int he case of the United States of America we found there is a correlation between the new covid cases and the current (cumulative) cases. On the contrary, for China we found no correlation between the new Covid cases and the current (cumulative) cases.
 
 ![Figure 8](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
 
-**Figure 8**: Correlation between the  new covid 19 cases and the current cases for China.
+**Figure 8**: Correlation between the new covid 19 cases and the current cases for China.
 
-We started to observe more data from another country so we choosed United Kingdom, and then we found there is a correlation between the new covid 19 cases and the current (cumulative) cases.
+We started to observe more data from another country so we chose the United Kingdom, and we found a correlation between the new covid 19 cases and the current (cumulative) cases.
 
 ![Figure 9](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
 
-**Figure 9**: Correlation between the  new covid 19 cases and the current cases for United Kingdom.
+**Figure 9**: Correlation between the new covid 19 cases and the current cases for the United Kingdom.
 
 
 ## 5. Conclusion and Future Work	
