@@ -35,7 +35,7 @@ After observing many datasets [^1] [^2] [^3] to get a better understanding if th
 
 For the weather datasets, we looked at several datasets [^4] [^5] [^6] and we decided to use the data provided by visualcrossing website [^4]. This website helped us in getting the data we need which is daily average temperatures in the United States of America and China. We started to collect the data from 1/3/2020.
 
-### 2.1 preparing COVID 19 Data-Set
+### 2.1 Preparing COVID 19 Data-Set
 
 We started to work on Covid 19 dataset and we found that it is better to use webscraping to gather the dataset so every time we run the python script, we will get the most recent data and then we opened the CSV file and added it to a dataframe.
 
@@ -86,18 +86,29 @@ We started to process the final dataset we prepared and we examined the data for
 
 **Figure 7**: Correlation between the temperature and the new covid 19 cases for the United States of America.
 
-Then we also processed the data for China and got the same results as the United States of America. We then looked at the analysis and int he case of the United States of America we found there is a correlation between the new covid cases and the current (cumulative) cases. On the contrary, for China we found no correlation between the new Covid cases and the current (cumulative) cases.
+Then we also processed the data for China and got the same results as the United States of America. We then looked at the analysis and in the case of the United States of America we found there is a correlation between the new covid cases and the current (cumulative) cases. On the contrary, for China we found no correlation between the new Covid cases and the current (cumulative) cases.
 
-![Figure 8](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
+![Figure 8](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/usacorrheat.jpg)
 
-**Figure 8**: Correlation between the new covid 19 cases and the current cases for China.
+**Figure 8**: Heat map depicting the correlations between new cases, cumulative cases, new deaths, and cumulative deaths, respectively for the United States of America.
+
+![Figure 9](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorr.jpg)
+
+**Figure 9**: Correlation between the new covid 19 cases and the current cases for China.
+
+![Figure 10](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/chinacorrheat.jpg)
+
+**Figure 10**: Heat map depicting the correlations between new cases, cumulative cases, new deaths, and cumulative deaths, respectively for China.
 
 We started to observe more data from another country so we chose the United Kingdom, and we found a correlation between the new covid 19 cases and the current (cumulative) cases.
 
-![Figure 9](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
+![Figure 11](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/uk_correlation.jpg)
 
-**Figure 9**: Correlation between the new covid 19 cases and the current cases for the United Kingdom.
+**Figure 11**: Correlation between the new covid 19 cases and the current cases for the United Kingdom.
 
+![Figure 12](https://github.com/cybertraining-dsc/fa20-523-342/raw/main/project/images/ukcorrheat.jpg)
+
+**Figure 12**: Heat map depicting the correlations between new cases, cumulative cases, new deaths, and cumulative deaths, respectively for the United Kingdom.
 
 ## 5. Conclusion and Future Work	
 
