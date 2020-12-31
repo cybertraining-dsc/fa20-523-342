@@ -5,9 +5,6 @@
 Status: final approved, Type: Project
 
 
-- [x] images must point to raw image see, template
-- [x]  please review our template to see how to do references and cite them in the text
-
 Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
 {{% pageinfo %}}
