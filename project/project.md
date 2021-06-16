@@ -3,7 +3,7 @@ date: 2021-03-15
 title: COVID-19 Analysis
 linkTitle: COVID-19
 tags: ["project", "ai", "health"]
-description: Comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread.
+description: "By the end of 2019, healthcare across the world started to see a new type of Flu and they called it Coronavirus or Covid-19. This new type of Flu developed across the world and it appeared there is no one treatment could be used to treat it yet, scientists found different treatments that apply to different age ranges. In this project, We will try to work on comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread."
 author: Hany Boles
 resources:
 - src: "**.{png,jpg}"
@@ -24,6 +24,7 @@ Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), 
 ## Abstract
 
 By the end of 2019, healthcare across the world started to see a new type of Flu and they called it Coronavirus or Covid-19. This new type of Flu developed across the world and it appeared there is no one treatment could be used to treat it yet, scientists found different treatments that apply to different age ranges. In this project, We will try to work on comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread.
+
 Contents
 
 {{< table_of_contents >}}
