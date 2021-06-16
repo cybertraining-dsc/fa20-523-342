@@ -1,3 +1,15 @@
+---
+date: 2021-03-15
+title: COVID-19 Analysis
+linkTitle: COVID-19
+tags: ["project", "ai", "health"]
+description: Comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread.
+author: Hany Boles
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
+
 # COVID-19 Analysis
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-342/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-342/actions)
