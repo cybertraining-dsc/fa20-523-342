@@ -5,6 +5,7 @@ linkTitle: COVID-19
 tags: ["project", "ai", "health"]
 description: "By the end of 2019, healthcare across the world started to see a new type of Flu and they called it Coronavirus or Covid-19. This new type of Flu developed across the world and it appeared there is no one treatment could be used to treat it yet, scientists found different treatments that apply to different age ranges. In this project, We will try to work on comparison analysis between USA and China on number of new cases and new deaths and trying to find factors played big roles in this spread."
 author: Hany Boles
+github_url: https://github.com/cybertraining-dsc/fa20-523-342/edit/main/project/project.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
