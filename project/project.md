@@ -17,7 +17,6 @@ resources:
 [![Status](https://github.com/cybertraining-dsc/fa20-523-342/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-342/actions)
 Status: final approved, Type: Project
 
-
 Hany Boles, [fa20-523-342](https://github.com/cybertraining-dsc/fa20-523-342/), [Edit](https://github.com/cybertraining-dsc/fa20-523-342/blob/main/project/project.md)
 
 {{% pageinfo %}}
